@@ -1,4 +1,4 @@
-# python-practice
+# ENED-python-practice
 Short python scripts for practice and reference.
 
 Most of these are notes and activities from an intro to engineering course, 

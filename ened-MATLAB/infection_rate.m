@@ -1,19 +1,4 @@
-% Homework 3.2: MATLAB 1
-% File:     HW_3p2_Task2_Oconnefa.m
-% Date:     3 February 2022
-% By:       Fiona O'Connell (oconnefa)
-%
-% Section:  018
-% Team:     256
-%
-% ELECTRONIC SIGNATURE
-% Fiona O'Connell
-%
-% The electronic signature above indicates the script
-% submitted for evaluation is my individual work, and I
-% have a general understanding of all aspects of its
-% development and execution.
-%
+% Homework: MATLAB 1
 % COVID-19 Infection:
 % This MATLAB script takes inputs for; s, u, y, A, B1, B2, and a. It then 
 % computes the values for R and ac to determine appropriate public health

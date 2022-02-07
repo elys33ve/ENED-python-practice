@@ -26,5 +26,3 @@ while n ~= 1                    % while n isnt 1
 end
 
 fprintf("\n")
-
-

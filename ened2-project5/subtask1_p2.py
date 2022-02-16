@@ -1,17 +1,9 @@
 #!/usr/bin/env python3
 
-from csv import list_dialects
-from functools import lru_cache
-import os
-import sys
 import math as m
 from time import sleep
 
-import ev3dev2 as e
-import ev3dev2.motor as em
-
 from ev3dev2.motor import OUTPUT_B, OUTPUT_D                      #motor ports
-from ev3dev2.sensor import INPUT_2
 
 from ev3dev2.sensor.lego import GyroSensor
 from ev3dev2.motor import LargeMotor, MoveSteering
@@ -23,7 +15,6 @@ MODE_GYRO_ANG = 'GYRO-ANG'
 gyro = GyroSensor()
 gyro.reset()
 
-####
 
 r = OUTPUT_D
 l = OUTPUT_B

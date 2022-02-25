@@ -1,10 +1,5 @@
 % MATLAB 5: Task 1
 % File:     ACT_MATLAB_6p1_TEAM256.m
-% Date:     24 February 2022
-% By:       Fiona O'Connell (oconnefa)
-%
-% Section:  018
-% Team:     256
 
 clc; clear;
 

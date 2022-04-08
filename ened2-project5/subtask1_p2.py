@@ -2,7 +2,7 @@
 
 # Move forward a given distance, turn 180 degrees and return to original
 # position a given number of times.
-
+##################################################
 from time import sleep
 import math as m
 
@@ -10,8 +10,6 @@ from ev3dev2.motor import OUTPUT_B, OUTPUT_D                      #motor ports
 
 from ev3dev2.sensor.lego import GyroSensor
 from ev3dev2.motor import LargeMotor, MoveSteering
-##################################################
-# forward in straght line, turn 180 degrees, forward for same distance
 ##################################################
 
 MODE_GYRO_ANG = 'GYRO-ANG'          #set gryo mode to angle
